@@ -1,0 +1,37 @@
+
+*{
+    background-color: aqua;
+}
+header{
+    text-align: center;
+}
+img{
+    margin: auto;
+    display: block;
+    width: 30%;
+    border: 5px;
+    border-style: double;
+}
+#Quote{
+    text-align: center;
+    font-size: 15px;
+}
+#Timeline{
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+section{
+    text-align: start;
+    margin-top: 20px;
+}
+div{
+    display: flex;
+    flex-direction: column-reverse;
+}
+footer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: flex-end;
+}
